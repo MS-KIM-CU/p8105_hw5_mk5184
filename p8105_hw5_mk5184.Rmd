@@ -1,0 +1,14 @@
+---
+title: "p8105_hw5_mk5184"
+author: "Minseo Brenda Kim"
+date: "2025-11-14"
+output: github_document
+---
+
+```{r}
+# load necessary libraries
+library(tidyverse)
+library(broom)
+```
+
+## Problem 1
